@@ -8,30 +8,30 @@ Transform simple text prompts into engaging animated stories with AI-generated v
 
 ## 🌟 Features
 
-- 🤖 **AI-Powered Story Generation**  
+-  **AI-Powered Story Generation**  
   Turn short prompts into full storyboards with characters and plot.
 
-- 🎬 **Multi-Scene Animation**  
+-  **Multi-Scene Animation**  
   Generate 3–10 animated scenes with consistent visual storytelling.
 
-- 🗣️ **Voice Narration**  
+-  **Voice Narration**  
   Natural-sounding text-to-speech narration for each scene.
 
-- 🧒 **Child-Safe Content**  
+-  **Child-Safe Content**  
   Built-in filtering ensures age-appropriate, family-friendly output.
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Python 3.9+
 - Google Cloud API access with:
   - Gemini Pro (text generation)
   - Imagen (image generation)
 
-### 📦 Installation
+###  Installation
 
 ```bash
 # Clone the repository
@@ -46,7 +46,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 🔐 Set Environment Variables
+###  Set Environment Variables
 
 Create a `.env` file in the root directory with your API key:
 
@@ -67,7 +67,7 @@ graph TD
 ```
 
 
-## 💡 Example Prompts
+##  Example Prompts
 
 - `"A dragon who's afraid of fire"`
 - `"The moon’s secret friendship with a lighthouse"`
@@ -90,7 +90,7 @@ git commit -m "Add AmazingFeature"
 # Push to GitHub
 git push origin feature/AmazingFeature
 
-# Open a Pull Request 🚀
+# Open a Pull Request 
 ```
 
 ---
