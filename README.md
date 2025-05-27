@@ -10,7 +10,8 @@ Transform simple text prompts into engaging animated stories with AI-generated v
 
 ## 📧 Demo
 
-WATCH DEMO HERE : https://acesse.one/fczPc
+🎥 **Watch Demo Here**: [Click Here](https://www.linkedin.com/posts/zainali152_aicreativity-generativeai-edtech-activity-7331257332787580929-zspS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNvIloB09RA13HwXeKygXDmXrGY_yUGBYg)
+
 
 ---
 
